@@ -12,6 +12,11 @@ yarn-debug.log*
 yarn-error.log*
 lerna-debug.log*
 
+# Package Files
+nest-cli.json
+tsconfig.build.json
+tsconfig.json
+
 # OS
 .DS_Store
 
